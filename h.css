@@ -1,0 +1,35 @@
+h1,h2,h3,h5,h6{
+	color: orange;
+	background-color: blue;
+	@import url('https://fonts.googleapis.com/css?family=Hind');
+	font-family: 'Hind', sans-serif;
+	
+}
+p{
+	@import url('https://fonts.googleapis.com/css?family=Satisfy');
+font-family: 'Satisfy', cursive;
+}
+center{
+	 @import url('https://fonts.googleapis.com/css?family=Cairo');
+    font-family: 'Cairo', sans-serif;
+}
+
+nav {
+    background-color: white;
+    width: 500px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+	 @import url('https://fonts.googleapis.com/css?family=Mali');
+    font-family: 'Mali', cursive;	 
+}
+
+a{
+	color: orange;
+	 @import url('https://fonts.googleapis.com/css?family=Kodchasan');
+    font-family: 'Kodchasan', sans-serif;
+}
+h4{
+	 @import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+     font-family: 'Hi Melody', cursive;
+}
